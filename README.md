@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/pulkitcode/pulkitcode.svg)](http://hits.dwyl.com/pulkitcode/pulkitcode)
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pulkitcode&show_icons=true&theme=radical)
 
