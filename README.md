@@ -1,1 +1,1 @@
-Working on a bigger project, working as a full stack guy and learning options strategies for now :)
+Working as a full stack guy with Goland and React, and learning options strategies for now :)
